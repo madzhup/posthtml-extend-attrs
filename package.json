@@ -21,11 +21,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:madzhup/posthtml-rename-tags.git"
+    "url": "git@github.com:posthtml/posthtml-rename-tags.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/madzhup/posthtml-rename-tags/issues"
+    "url": "https://github.com/posthtml/posthtml-rename-tags/issues"
   },
-  "homepage": "https://github.com/madzhup/posthtml-rename-tags"
+  "homepage": "https://github.com/posthtml/posthtml-rename-tags"
 }
